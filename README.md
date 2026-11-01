@@ -41,19 +41,7 @@ I’m a passionate developer focused on building practical, user-friendly, and s
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinghVanshraj&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghVanshraj&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## Let's Connect
+## Connect
 - Portfolio: https://vanshrajsingh.in
 - GitHub: https://github.com/SinghVanshraj
 - Email: vanshrajsingh111608@gmail.com
