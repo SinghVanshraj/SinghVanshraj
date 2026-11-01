@@ -26,7 +26,7 @@ I’m a passionate developer focused on building practical, user-friendly, and s
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,android,firebase,supabase,springboot,git,bash,linux,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,android,firebase,supabase,springboot,git,bash,linux,postgresql,mongodb" />
 </p>
 
 ---
@@ -34,6 +34,7 @@ I’m a passionate developer focused on building practical, user-friendly, and s
 ## Featured Focus
 - Android App Development
 - Flutter Applications
+- Dart + Flutter UI Development
 - Firebase & Supabase Integration
 - REST APIs with Spring Boot
 - Database Design with PostgreSQL & MongoDB
