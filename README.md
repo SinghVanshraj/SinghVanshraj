@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://vanshrajsingh.in">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio--0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/SinghVanshraj">
-  <img src="https://img.shields.io/badge/GitHub-Visit%20profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:vanshrajsingh111608@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email--D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
 
