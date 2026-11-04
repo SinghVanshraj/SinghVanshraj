@@ -50,6 +50,7 @@ I’m a passionate developer focused on building practical, user-friendly, and s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghVanshraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-committed-language?username=SinghVanshraj&theme=tokyonight" alt="Most Committed Language" />
 </p>
 
 ---
