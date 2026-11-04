@@ -44,7 +44,6 @@ I’m a passionate developer focused on building practical, user-friendly, and s
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinghVanshraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghVanshraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
