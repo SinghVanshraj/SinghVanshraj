@@ -13,7 +13,7 @@
 </p>
 
 ## About Me
-I’m a passionate developer focused on building practical, user-friendly, and scalable digital solutions. I enjoy working across mobile, backend, and modern app development, and I’m always learning to improve my craft.
+I’m a passionate developer focused on building practical, user-friendly, and scalable digital solutions. I enjoy working across mobile, backend, and modern app development, and I’m always learning...
 
 - 💻 Interested in Android, Flutter, Java, Kotlin, and backend development
 - 🚀 Building real-world applications with clean architecture and strong user experience
@@ -38,6 +38,19 @@ I’m a passionate developer focused on building practical, user-friendly, and s
 - Firebase & Supabase Integration
 - REST APIs with Spring Boot
 - Database Design with PostgreSQL & MongoDB
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SinghVanshraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghVanshraj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghVanshraj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
