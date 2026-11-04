@@ -26,7 +26,7 @@ I’m a passionate developer focused on building practical, user-friendly, and s
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,android,firebase,supabase,spring,git,bash,linux,postgresql,mongo" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,flutter,dart,androidstudio,firebase,supabase,spring,gradle,git,github,bash,linux,postgresql,mongo,sqlite" />
 </p>
 
 ---
