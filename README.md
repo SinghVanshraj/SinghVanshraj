@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&width=500&lines=Hi+There%2C+I'm+Vanshraj" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=50C878&width=500&lines=Hi+There%2C+I'm+Vanshraj" alt="Typing SVG" />
 
 <p align="center">
 <a href="https://vanshrajsingh.in">
